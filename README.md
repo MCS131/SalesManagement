@@ -1,4 +1,4 @@
-# 販売管理システム (Sales Management System)
+# 販売管理システム
 
 Entity Framework Core を使用した Windows Forms ベースの販売管理システムです。
 
