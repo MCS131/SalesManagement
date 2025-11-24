@@ -134,8 +134,8 @@ SalesManagement_SysDev/
 
 ### 必要環境
 
-- Visual Studio 2019以降
-- .NET Framework 4.7.2以降
+- Visual Studio 2019
+- .NET Framework 4.7.2
 - SQL Server LocalDB
 
 ### データベース接続
